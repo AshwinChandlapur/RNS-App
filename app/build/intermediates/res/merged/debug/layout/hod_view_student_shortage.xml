@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="40dp"
+    android:background="#2D3234">
+
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text="View Shortage of"
+        android:id="@+id/textView25"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:textColor="#FFFFFF" />
+    <Button
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="semester 1"
+        android:id="@+id/se1"
+        android:layout_below="@+id/textView25"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="10dp"
+        android:textColor="#FFFFFF"
+        android:background="@drawable/cardlayout"
+        android:layout_marginBottom="3dp" />
+
+    <Button
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="semester 2"
+        android:id="@+id/se2"
+        android:layout_below="@+id/se1"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="5dp"
+        android:textColor="#FFFFFF"
+        android:background="@drawable/cardlayout"
+        android:layout_marginBottom="3dp" />
+    <Button
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="semester 3"
+        android:id="@+id/se3"
+        android:layout_below="@+id/se2"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="5dp"
+        android:textColor="#FFFFFF"
+        android:background="@drawable/cardlayout"
+        android:layout_marginBottom="3dp" />
+    <Button
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="semester 4"
+        android:id="@+id/se4"
+        android:layout_below="@+id/se3"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="5dp"
+        android:textColor="#FFFFFF"
+        android:background="@drawable/cardlayout"
+        android:layout_marginBottom="3dp" />
+    <Button
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="semester 5"
+        android:id="@+id/se5"
+        android:layout_below="@+id/se4"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="5dp"
+        android:textColor="#FFFFFF"
+        android:background="@drawable/cardlayout"
+        android:layout_marginBottom="3dp" />
+
+    <Button
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="semester 6"
+        android:id="@+id/se6"
+        android:layout_below="@+id/se5"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="5dp"
+        android:textColor="#FFFFFF"
+        android:background="@drawable/cardlayout"
+        android:layout_marginBottom="3dp" />
+    <Button
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="semester 7"
+        android:id="@+id/se7"
+        android:layout_below="@+id/se6"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="5dp"
+        android:textColor="#FFFFFF"
+        android:background="@drawable/cardlayout"
+        android:layout_marginBottom="3dp" />
+
+    <Button
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="semester 8"
+        android:id="@+id/se8"
+        android:layout_below="@+id/se7"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="5dp"
+        android:textColor="#FFFFFF"
+        android:background="@drawable/cardlayout" />
+
+</RelativeLayout>

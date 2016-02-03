@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:context=".MainComponents.hostelFirst"
+    tools:showIn="@layout/activity_hostel_first">
+
+
+    <ImageButton
+        android:layout_width="300dp"
+        android:layout_height="420dp"
+        android:id="@+id/imageButton"
+        android:background="#ffffff"
+        android:layout_centerVertical="true"
+        android:layout_centerHorizontal="true"
+        android:contentDescription="@string/RNS" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text="Hostel Logo"
+        android:id="@+id/textView3"
+        android:layout_below="@+id/imageButton"
+        android:layout_centerHorizontal="true" />
+
+</RelativeLayout>

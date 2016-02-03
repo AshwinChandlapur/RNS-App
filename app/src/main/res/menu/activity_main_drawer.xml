@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+
+    <item
+        android:id="@+id/nav_attendance"
+        android:icon="@drawable/ic_event_black_24dp"
+        android:title="Attendance" />
+
+
+        <item
+            android:id="@+id/nav_newsFeed"
+            android:icon="@drawable/ic_developer_board_black_24dp"
+            android:title="News Feed"
+            />
+        <item
+            android:id="@+id/nav_Calender"
+            android:icon="@drawable/ic_collections_bookmark_black_24dp"
+            android:title="Calender Of Events"
+            />
+        <item
+            android:id="@+id/nav_notes"
+            android:icon="@drawable/ic_local_library_black_24dp"
+            android:title="Notes Section"
+            />
+    <item
+        android:id="@+id/nav_trackbus"
+        android:icon="@drawable/ic_directions_bus_black_24dp"
+        android:title="Track bus"
+        />
+    <item
+        android:id="@+id/nav_logout"
+        android:icon="@drawable/hostel"
+        android:title="Hostel"
+        />
+
+
+</menu>

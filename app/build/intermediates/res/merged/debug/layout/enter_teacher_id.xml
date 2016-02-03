@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent" android:layout_height="match_parent"
+    android:background="#2D3234">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text="Enter Teacher ID"
+        android:id="@+id/textView18"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentStart="true"
+        android:layout_marginStart="32dp"
+        android:layout_marginTop="160dp"
+        android:textColor="#FFFFFF" />
+
+    <EditText
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/login_teacher_no"
+        android:width="80dp"
+        android:gravity="center_horizontal"
+        android:layout_alignBottom="@+id/textView18"
+        android:layout_alignParentEnd="true"
+        android:layout_marginEnd="36dp"
+        android:inputType="number"
+        android:textColor="#FFFFFF"
+        android:background="@drawable/edittextbg"
+        android:textColorHighlight="#FFFFFF"
+        android:hint="0-9+" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="submit"
+        android:background="@drawable/cardlayout"
+        android:id="@+id/teacher_login_submit"
+        android:textColor="#FFFFFF"
+        android:width="140dp"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="165dp" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text="Enter password"
+        android:id="@+id/textView39"
+        android:layout_below="@+id/textView18"
+        android:layout_alignStart="@+id/textView18"
+        android:layout_marginTop="33dp"
+        android:textColor="#ffffff" />
+
+    <EditText
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:inputType="textPassword"
+        android:ems="10"
+        android:id="@+id/teacher_pp"
+        android:gravity="center_horizontal"
+        android:layout_alignTop="@+id/textView39"
+        android:layout_alignParentEnd="true"
+        android:layout_alignStart="@+id/login_teacher_no"
+        android:background="@drawable/edittextbg"
+        android:hint="pwd"
+        android:textColor="#ffffff"
+        android:textColorHighlight="#ffffff" />
+</RelativeLayout>

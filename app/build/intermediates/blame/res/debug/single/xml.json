@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Volumes/Data/Apps/RNS/app/build/intermediates/res/merged/debug/xml/pref_general.xml",
+        "source": "/Volumes/Data/Apps/RNS/app/src/main/res/xml/pref_general.xml"
+    },
+    {
+        "merged": "/Volumes/Data/Apps/RNS/app/build/intermediates/res/merged/debug/xml/pref_headers.xml",
+        "source": "/Volumes/Data/Apps/RNS/app/src/main/res/xml/pref_headers.xml"
+    },
+    {
+        "merged": "/Volumes/Data/Apps/RNS/app/build/intermediates/res/merged/debug/xml/pref_notification.xml",
+        "source": "/Volumes/Data/Apps/RNS/app/src/main/res/xml/pref_notification.xml"
+    },
+    {
+        "merged": "/Volumes/Data/Apps/RNS/app/build/intermediates/res/merged/debug/xml/pref_data_sync.xml",
+        "source": "/Volumes/Data/Apps/RNS/app/src/main/res/xml/pref_data_sync.xml"
+    }
+]

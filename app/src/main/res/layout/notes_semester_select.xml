@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent" android:layout_height="match_parent"
+    android:padding="16dp"
+    android:background="#2D3234">
+
+    <Button
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="semester 1"
+        android:background="@drawable/cardlayout"
+        android:id="@+id/sem1"
+        android:textColor="#FFFFFF"
+        android:width="140dp"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="20dp"
+        />
+    <Button
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="semester 2"
+        android:layout_below="@+id/sem1"
+        android:background="@drawable/cardlayout"
+        android:id="@+id/sem2"
+        android:textColor="#FFFFFF"
+        android:width="140dp"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="10dp"
+        />
+    <Button
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="semester 3"
+        android:layout_below="@+id/sem2"
+        android:background="@drawable/cardlayout"
+        android:id="@+id/sem3"
+        android:textColor="#FFFFFF"
+        android:width="140dp"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="10dp"
+        />
+    <Button
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="semester 4"
+        android:layout_below="@+id/sem3"
+        android:background="@drawable/cardlayout"
+        android:id="@+id/sem4"
+        android:textColor="#FFFFFF"
+        android:width="140dp"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="10dp"
+        />
+    <Button
+        android:id="@+id/sem5"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="semester 5"
+        android:layout_below="@+id/sem4"
+        android:background="@drawable/cardlayout"
+        android:textColor="#FFFFFF"
+        android:width="140dp"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="10dp"
+        />
+    <Button
+        android:id="@+id/sem6"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="semester 6"
+        android:layout_below="@+id/sem5"
+        android:background="@drawable/cardlayout"
+        android:textColor="#FFFFFF"
+        android:width="140dp"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="10dp"
+        />
+    <Button
+        android:id="@+id/sem7"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="semester 7"
+        android:layout_below="@+id/sem6"
+        android:background="@drawable/cardlayout"
+        android:textColor="#FFFFFF"
+        android:width="140dp"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="10dp"
+        />
+    <Button
+        android:id="@+id/sem8"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="semester 8"
+        android:layout_below="@+id/sem7"
+        android:background="@drawable/cardlayout"
+        android:textColor="#FFFFFF"
+        android:width="140dp"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="10dp"
+        />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:id="@+id/branch"
+        android:textColor="#ffffff"
+        android:textSize="15sp"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true" />
+</RelativeLayout>

@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent" android:layout_height="match_parent"
+    android:padding="16dp"
+    android:background="#2D3234">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text="NEW STUDENT DETAILS"
+        android:id="@+id/textView10"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:textColor="#FFFFFF" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text="Name"
+        android:id="@+id/textView11"
+        android:layout_marginTop="67dp"
+        android:layout_below="@+id/textView10"
+        android:layout_alignParentStart="true"
+        android:layout_alignEnd="@+id/textView12"
+        android:textColor="#FFFFFF" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text="Branch"
+        android:id="@+id/textView12"
+        android:layout_below="@+id/textView11"
+        android:layout_alignParentStart="true"
+        android:layout_marginBottom="15dp"
+        android:layout_marginTop="10dp"
+        android:textColor="#FFFFFF" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text="Semester"
+        android:id="@+id/textView22"
+        android:layout_below="@+id/textView21"
+        android:layout_alignParentStart="true"
+        android:layout_marginBottom="20dp"
+        android:textColor="#FFFFFF" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text="Section"
+        android:id="@+id/textView13"
+        android:layout_below="@+id/textView12"
+        android:layout_alignParentStart="true"
+        android:layout_marginBottom="15dp"
+        android:textColor="#FFFFFF" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text="Phone No"
+        android:id="@+id/textView20"
+        android:layout_alignParentStart="true"
+        android:layout_marginBottom="15dp"
+        android:layout_below="@+id/textView13"
+        android:textColor="#FFFFFF" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text="Email ID"
+        android:id="@+id/textView21"
+        android:layout_below="@+id/textView20"
+        android:layout_alignParentStart="true"
+        android:layout_marginBottom="15dp"
+        android:textColor="#FFFFFF" />
+
+    <EditText
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:inputType="textPersonName"
+        android:gravity="center_horizontal"
+        android:ems="10"
+        android:id="@+id/Name"
+        android:background="@drawable/edittextbg"
+        android:layout_alignBottom="@+id/textView11"
+        android:layout_alignStart="@+id/submit_updated_details"
+        android:hint="ABC"
+        android:textColor="#FFFFFF"
+        android:textColorHighlight="#FFFFFF" />
+
+    <EditText
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/Branch"
+        android:background="@drawable/edittextbg"
+        android:gravity="center_horizontal"
+        android:layout_alignBottom="@+id/textView12"
+        android:layout_alignStart="@+id/Name"
+        android:layout_alignEnd="@+id/Name"
+        android:hint="IS"
+        android:textColor="#FFFFFF"
+        android:textColorHighlight="#FFFFFF" />
+
+    <EditText
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/Section"
+        android:gravity="center_horizontal"
+        android:background="@drawable/edittextbg"
+        android:width="215dp"
+        android:layout_alignBottom="@+id/textView13"
+        android:layout_alignStart="@+id/Branch"
+        android:hint="A"
+        android:textColor="#FFFFFF"
+        android:textColorHighlight="#FFFFFF" />
+
+    <EditText
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:inputType="number"
+        android:ems="10"
+        android:gravity="center_horizontal"
+        android:id="@+id/phone"
+        android:layout_alignBottom="@+id/textView20"
+        android:layout_alignStart="@+id/Section"
+        android:background="@drawable/edittextbg"
+        android:hint="9999999999"
+        android:textColor="#FFFFFF"
+        android:textColorHighlight="#FFFFFF" />
+
+    <EditText
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:inputType="textEmailAddress"
+        android:ems="10"
+        android:gravity="center_horizontal"
+        android:id="@+id/email"
+        android:layout_alignBottom="@+id/textView21"
+        android:layout_alignStart="@+id/phone"
+        android:background="@drawable/edittextbg"
+        android:hint="example@domain.com"
+        android:textColor="#FFFFFF"
+        android:textColorHighlight="#FFFFFF" />
+
+    <EditText
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:inputType="number"
+        android:ems="10"
+        android:id="@+id/branch"
+        android:gravity="center_horizontal"
+        android:layout_below="@+id/email"
+        android:layout_alignStart="@+id/email"
+        android:background="@drawable/edittextbg"
+        android:layout_marginTop="15dp"
+        android:hint="1-8"
+        android:textColor="#FFFFFF"
+        android:textColorHighlight="#FFFFFF" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="submit"
+        android:id="@+id/submit_updated_details"
+        android:layout_below="@+id/branch"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="20dp"
+        android:textColor="#FFFFFF"
+        android:background="@drawable/cardlayout"
+        android:width="130dp" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:id="@+id/error_message"
+        android:textColor="#06f2d3"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:textSize="16sp" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text="USN"
+        android:id="@+id/usn"
+        android:textColor="#FFFFFF"
+        android:layout_alignTop="@+id/studentusn"
+        android:layout_alignParentStart="true" />
+
+    <EditText
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/studentusn"
+        android:gravity="center_horizontal"
+        android:layout_above="@+id/Name"
+        android:layout_alignStart="@+id/Name"
+        android:layout_alignEnd="@+id/Name"
+        android:background="@drawable/edittextbg"
+        android:layout_marginBottom="15dp"
+        android:hint="1RN13IS001"
+        android:textColor="#FFFFFF"
+        android:textColorHighlight="#FFFFFF" />
+
+
+</RelativeLayout>

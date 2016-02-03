@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent" android:layout_height="match_parent"
+    android:background="#2D3234">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="20sp"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text="ADMIN PASSWORD"
+        android:id="@+id/adminPassword"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="104dp"
+        android:textColor="#FFFFFF" />
+
+    <EditText
+
+        android:layout_width="300dp"
+        android:layout_height="wrap_content"
+        android:inputType="textPassword"
+        android:ems="10"
+        android:id="@+id/adminPasswordText"
+        android:background="@drawable/edittextbg"
+        android:layout_below="@+id/adminPassword"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="45dp"
+        android:textColor="#FFFFFF"
+        android:textColorHighlight="#FFFFFF" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="admin login"
+        android:id="@+id/adminP"
+        android:layout_below="@+id/adminPasswordText"
+        android:layout_alignEnd="@+id/adminPasswordText"
+        android:layout_marginTop="51dp"
+        android:background="@drawable/cardlayout"
+        android:width="120dp"
+        android:textColor="#FFFFFF" />
+
+</RelativeLayout>

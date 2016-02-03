@@ -1,0 +1,362 @@
+[
+    {
+        "merged": "/Volumes/Data/Apps/RNS/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_material.xml",
+        "source": "/Volumes/Data/Apps/RNS/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/layout/abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "/Volumes/Data/Apps/RNS/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_layout.xml",
+        "source": "/Volumes/Data/Apps/RNS/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/layout/abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Volumes/Data/Apps/RNS/app/build/intermediates/res/merged/debug/layout/handle_nav_calender.xml",
+        "source": "/Volumes/Data/Apps/RNS/app/src/main/res/layout/handle_nav_calender.xml"
+    },
+    {
+        "merged": "/Volumes/Data/Apps/RNS/app/build/intermediates/res/merged/debug/layout/design_navigation_item_header.xml",
+        "source": "/Volumes/Data/Apps/RNS/app/build/intermediates/exploded-aar/com.android.support/design/23.1.1/res/layout/design_navigation_item_header.xml"
+    },
+    {
+        "merged": "/Volumes/Data/Apps/RNS/app/build/intermediates/res/merged/debug/layout/abc_screen_toolbar.xml",
+        "source": "/Volumes/Data/Apps/RNS/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/layout/abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "/Volumes/Data/Apps/RNS/app/build/intermediates/res/merged/debug/layout/notification_template_media.xml",
+        "source": "/Volumes/Data/Apps/RNS/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/layout/notification_template_media.xml"
+    },
+    {
+        "merged": "/Volumes/Data/Apps/RNS/app/build/intermediates/res/merged/debug/layout/abc_dialog_title_material.xml",
+        "source": "/Volumes/Data/Apps/RNS/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/layout/abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "/Volumes/Data/Apps/RNS/app/build/intermediates/res/merged/debug/layout/abc_action_mode_close_item_material.xml",
+        "source": "/Volumes/Data/Apps/RNS/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/layout/abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "/Volumes/Data/Apps/RNS/app/build/intermediates/res/merged/debug/layout/notification_media_action.xml",
+        "source": "/Volumes/Data/Apps/RNS/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/layout/notification_media_action.xml"
+    },
+    {
+        "merged": "/Volumes/Data/Apps/RNS/app/build/intermediates/res/merged/debug/layout/hod_get_student_contact.xml",
+        "source": "/Volumes/Data/Apps/RNS/app/src/main/res/layout/hod_get_student_contact.xml"
+    },
+    {
+        "merged": "/Volumes/Data/Apps/RNS/app/build/intermediates/res/merged/debug/layout/update_student_contact.xml",
+        "source": "/Volumes/Data/Apps/RNS/app/src/main/res/layout/update_student_contact.xml"
+    },
+    {
+        "merged": "/Volumes/Data/Apps/RNS/app/build/intermediates/res/merged/debug/layout/notification_template_lines.xml",
+        "source": "/Volumes/Data/Apps/RNS/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/layout/notification_template_lines.xml"
+    },
+    {
+        "merged": "/Volumes/Data/Apps/RNS/app/build/intermediates/res/merged/debug/layout/student_att_report.xml",
+        "source": "/Volumes/Data/Apps/RNS/app/src/main/res/layout/student_att_report.xml"
+    },
+    {
+        "merged": "/Volumes/Data/Apps/RNS/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view.xml",
+        "source": "/Volumes/Data/Apps/RNS/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/layout/abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "/Volumes/Data/Apps/RNS/app/build/intermediates/res/merged/debug/layout/select_dialog_item_material.xml",
+        "source": "/Volumes/Data/Apps/RNS/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/layout/select_dialog_item_material.xml"
+    },
+    {
+        "merged": "/Volumes/Data/Apps/RNS/app/build/intermediates/res/merged/debug/layout/design_navigation_menu.xml",
+        "source": "/Volumes/Data/Apps/RNS/app/build/intermediates/exploded-aar/com.android.support/design/23.1.1/res/layout/design_navigation_menu.xml"
+    },
+    {
+        "merged": "/Volumes/Data/Apps/RNS/app/build/intermediates/res/merged/debug/layout/hod_display_contact_details.xml",
+        "source": "/Volumes/Data/Apps/RNS/app/src/main/res/layout/hod_display_contact_details.xml"
+    },
+    {
+        "merged": "/Volumes/Data/Apps/RNS/app/build/intermediates/res/merged/debug/layout/notes_semester_select.xml",
+        "source": "/Volumes/Data/Apps/RNS/app/src/main/res/layout/notes_semester_select.xml"
+    },
+    {
+        "merged": "/Volumes/Data/Apps/RNS/app/build/intermediates/res/merged/debug/layout/content_first.xml",
+        "source": "/Volumes/Data/Apps/RNS/app/src/main/res/layout/content_first.xml"
+    },
+    {
+        "merged": "/Volumes/Data/Apps/RNS/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_checkbox.xml",
+        "source": "/Volumes/Data/Apps/RNS/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/layout/abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "/Volumes/Data/Apps/RNS/app/build/intermediates/res/merged/debug/layout/nav_header_main.xml",
+        "source": "/Volumes/Data/Apps/RNS/app/src/main/res/layout/nav_header_main.xml"
+    },
+    {
+        "merged": "/Volumes/Data/Apps/RNS/app/build/intermediates/res/merged/debug/layout/app_bar_main.xml",
+        "source": "/Volumes/Data/Apps/RNS/app/src/main/res/layout/app_bar_main.xml"
+    },
+    {
+        "merged": "/Volumes/Data/Apps/RNS/app/build/intermediates/res/merged/debug/layout/abc_popup_menu_item_layout.xml",
+        "source": "/Volumes/Data/Apps/RNS/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/layout/abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Volumes/Data/Apps/RNS/app/build/intermediates/res/merged/debug/layout/design_layout_snackbar_include.xml",
+        "source": "/Volumes/Data/Apps/RNS/app/build/intermediates/exploded-aar/com.android.support/design/23.1.1/res/layout/design_layout_snackbar_include.xml"
+    },
+    {
+        "merged": "/Volumes/Data/Apps/RNS/app/build/intermediates/res/merged/debug/layout/select_dialog_multichoice_material.xml",
+        "source": "/Volumes/Data/Apps/RNS/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/layout/select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "/Volumes/Data/Apps/RNS/app/build/intermediates/res/merged/debug/layout/content_main.xml",
+        "source": "/Volumes/Data/Apps/RNS/app/src/main/res/layout/content_main.xml"
+    },
+    {
+        "merged": "/Volumes/Data/Apps/RNS/app/build/intermediates/res/merged/debug/layout/abc_search_dropdown_item_icons_2line.xml",
+        "source": "/Volumes/Data/Apps/RNS/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/layout/abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "/Volumes/Data/Apps/RNS/app/build/intermediates/res/merged/debug/layout/abc_expanded_menu_layout.xml",
+        "source": "/Volumes/Data/Apps/RNS/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/layout/abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "/Volumes/Data/Apps/RNS/app/build/intermediates/res/merged/debug/layout/abc_action_menu_layout.xml",
+        "source": "/Volumes/Data/Apps/RNS/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/layout/abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "/Volumes/Data/Apps/RNS/app/build/intermediates/res/merged/debug/layout/update_new_teacher.xml",
+        "source": "/Volumes/Data/Apps/RNS/app/src/main/res/layout/update_new_teacher.xml"
+    },
+    {
+        "merged": "/Volumes/Data/Apps/RNS/app/build/intermediates/res/merged/debug/layout/abc_screen_content_include.xml",
+        "source": "/Volumes/Data/Apps/RNS/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/layout/abc_screen_content_include.xml"
+    },
+    {
+        "merged": "/Volumes/Data/Apps/RNS/app/build/intermediates/res/merged/debug/layout/update_new_student.xml",
+        "source": "/Volumes/Data/Apps/RNS/app/src/main/res/layout/update_new_student.xml"
+    },
+    {
+        "merged": "/Volumes/Data/Apps/RNS/app/build/intermediates/res/merged/debug/layout/abc_action_menu_item_layout.xml",
+        "source": "/Volumes/Data/Apps/RNS/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/layout/abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Volumes/Data/Apps/RNS/app/build/intermediates/res/merged/debug/layout/abc_action_bar_view_list_nav_layout.xml",
+        "source": "/Volumes/Data/Apps/RNS/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/layout/abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "/Volumes/Data/Apps/RNS/app/build/intermediates/res/merged/debug/layout/design_menu_item_action_area.xml",
+        "source": "/Volumes/Data/Apps/RNS/app/build/intermediates/exploded-aar/com.android.support/design/23.1.1/res/layout/design_menu_item_action_area.xml"
+    },
+    {
+        "merged": "/Volumes/Data/Apps/RNS/app/build/intermediates/res/merged/debug/layout/hod_view_student_shortage.xml",
+        "source": "/Volumes/Data/Apps/RNS/app/src/main/res/layout/hod_view_student_shortage.xml"
+    },
+    {
+        "merged": "/Volumes/Data/Apps/RNS/app/build/intermediates/res/merged/debug/layout/handle_nav_attendance.xml",
+        "source": "/Volumes/Data/Apps/RNS/app/src/main/res/layout/handle_nav_attendance.xml"
+    },
+    {
+        "merged": "/Volumes/Data/Apps/RNS/app/build/intermediates/res/merged/debug/layout/abc_action_mode_bar.xml",
+        "source": "/Volumes/Data/Apps/RNS/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/layout/abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "/Volumes/Data/Apps/RNS/app/build/intermediates/res/merged/debug/layout/notes_subject_select.xml",
+        "source": "/Volumes/Data/Apps/RNS/app/src/main/res/layout/notes_subject_select.xml"
+    },
+    {
+        "merged": "/Volumes/Data/Apps/RNS/app/build/intermediates/res/merged/debug/layout/design_layout_tab_icon.xml",
+        "source": "/Volumes/Data/Apps/RNS/app/build/intermediates/exploded-aar/com.android.support/design/23.1.1/res/layout/design_layout_tab_icon.xml"
+    },
+    {
+        "merged": "/Volumes/Data/Apps/RNS/app/build/intermediates/res/merged/debug/layout/notification_media_cancel_action.xml",
+        "source": "/Volumes/Data/Apps/RNS/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/layout/notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "/Volumes/Data/Apps/RNS/app/build/intermediates/res/merged/debug/layout/enter_hod_id.xml",
+        "source": "/Volumes/Data/Apps/RNS/app/src/main/res/layout/enter_hod_id.xml"
+    },
+    {
+        "merged": "/Volumes/Data/Apps/RNS/app/build/intermediates/res/merged/debug/layout/teacher_view_shortage.xml",
+        "source": "/Volumes/Data/Apps/RNS/app/src/main/res/layout/teacher_view_shortage.xml"
+    },
+    {
+        "merged": "/Volumes/Data/Apps/RNS/app/build/intermediates/res/merged/debug/layout/mr_media_route_controller_material_dialog_b.xml",
+        "source": "/Volumes/Data/Apps/RNS/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.0/res/layout/mr_media_route_controller_material_dialog_b.xml"
+    },
+    {
+        "merged": "/Volumes/Data/Apps/RNS/app/build/intermediates/res/merged/debug/layout/update_db.xml",
+        "source": "/Volumes/Data/Apps/RNS/app/src/main/res/layout/update_db.xml"
+    },
+    {
+        "merged": "/Volumes/Data/Apps/RNS/app/build/intermediates/res/merged/debug/layout/update_std_teac_hod.xml",
+        "source": "/Volumes/Data/Apps/RNS/app/src/main/res/layout/update_std_teac_hod.xml"
+    },
+    {
+        "merged": "/Volumes/Data/Apps/RNS/app/build/intermediates/res/merged/debug/layout/notification_template_big_media.xml",
+        "source": "/Volumes/Data/Apps/RNS/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/layout/notification_template_big_media.xml"
+    },
+    {
+        "merged": "/Volumes/Data/Apps/RNS/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_radio.xml",
+        "source": "/Volumes/Data/Apps/RNS/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/layout/abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "/Volumes/Data/Apps/RNS/app/build/intermediates/res/merged/debug/layout/notification_template_part_time.xml",
+        "source": "/Volumes/Data/Apps/RNS/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/layout/notification_template_part_time.xml"
+    },
+    {
+        "merged": "/Volumes/Data/Apps/RNS/app/build/intermediates/res/merged/debug/layout/hod_final_att_report.xml",
+        "source": "/Volumes/Data/Apps/RNS/app/src/main/res/layout/hod_final_att_report.xml"
+    },
+    {
+        "merged": "/Volumes/Data/Apps/RNS/app/build/intermediates/res/merged/debug/layout/design_navigation_item_subheader.xml",
+        "source": "/Volumes/Data/Apps/RNS/app/build/intermediates/exploded-aar/com.android.support/design/23.1.1/res/layout/design_navigation_item_subheader.xml"
+    },
+    {
+        "merged": "/Volumes/Data/Apps/RNS/app/build/intermediates/res/merged/debug/layout/place_autocomplete_fragment.xml",
+        "source": "/Volumes/Data/Apps/RNS/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/8.4.0/res/layout/place_autocomplete_fragment.xml"
+    },
+    {
+        "merged": "/Volumes/Data/Apps/RNS/app/build/intermediates/res/merged/debug/layout/mr_media_route_list_item.xml",
+        "source": "/Volumes/Data/Apps/RNS/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.0/res/layout/mr_media_route_list_item.xml"
+    },
+    {
+        "merged": "/Volumes/Data/Apps/RNS/app/build/intermediates/res/merged/debug/layout/support_simple_spinner_dropdown_item.xml",
+        "source": "/Volumes/Data/Apps/RNS/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/layout/support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "/Volumes/Data/Apps/RNS/app/build/intermediates/res/merged/debug/layout/select_dialog_singlechoice_material.xml",
+        "source": "/Volumes/Data/Apps/RNS/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/layout/select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "/Volumes/Data/Apps/RNS/app/build/intermediates/res/merged/debug/layout/place_autocomplete_progress.xml",
+        "source": "/Volumes/Data/Apps/RNS/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/8.4.0/res/layout/place_autocomplete_progress.xml"
+    },
+    {
+        "merged": "/Volumes/Data/Apps/RNS/app/build/intermediates/res/merged/debug/layout/activity_main.xml",
+        "source": "/Volumes/Data/Apps/RNS/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Volumes/Data/Apps/RNS/app/build/intermediates/res/merged/debug/layout/hod_att_report.xml",
+        "source": "/Volumes/Data/Apps/RNS/app/src/main/res/layout/hod_att_report.xml"
+    },
+    {
+        "merged": "/Volumes/Data/Apps/RNS/app/build/intermediates/res/merged/debug/layout/notes_unit_select.xml",
+        "source": "/Volumes/Data/Apps/RNS/app/src/main/res/layout/notes_unit_select.xml"
+    },
+    {
+        "merged": "/Volumes/Data/Apps/RNS/app/build/intermediates/res/merged/debug/layout/hod_optons.xml",
+        "source": "/Volumes/Data/Apps/RNS/app/src/main/res/layout/hod_optons.xml"
+    },
+    {
+        "merged": "/Volumes/Data/Apps/RNS/app/build/intermediates/res/merged/debug/layout/hod_final_view_shortage.xml",
+        "source": "/Volumes/Data/Apps/RNS/app/src/main/res/layout/hod_final_view_shortage.xml"
+    },
+    {
+        "merged": "/Volumes/Data/Apps/RNS/app/build/intermediates/res/merged/debug/layout/abc_search_view.xml",
+        "source": "/Volumes/Data/Apps/RNS/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/layout/abc_search_view.xml"
+    },
+    {
+        "merged": "/Volumes/Data/Apps/RNS/app/build/intermediates/res/merged/debug/layout/activity_maps.xml",
+        "source": "/Volumes/Data/Apps/RNS/app/src/main/res/layout/activity_maps.xml"
+    },
+    {
+        "merged": "/Volumes/Data/Apps/RNS/app/build/intermediates/res/merged/debug/layout/notification_template_part_chronometer.xml",
+        "source": "/Volumes/Data/Apps/RNS/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/layout/notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "/Volumes/Data/Apps/RNS/app/build/intermediates/res/merged/debug/layout/mr_media_route_chooser_dialog.xml",
+        "source": "/Volumes/Data/Apps/RNS/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.0/res/layout/mr_media_route_chooser_dialog.xml"
+    },
+    {
+        "merged": "/Volumes/Data/Apps/RNS/app/build/intermediates/res/merged/debug/layout/enter_teacher_id.xml",
+        "source": "/Volumes/Data/Apps/RNS/app/src/main/res/layout/enter_teacher_id.xml"
+    },
+    {
+        "merged": "/Volumes/Data/Apps/RNS/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_button_bar_material.xml",
+        "source": "/Volumes/Data/Apps/RNS/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/layout/abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "/Volumes/Data/Apps/RNS/app/build/intermediates/res/merged/debug/layout/design_navigation_item_separator.xml",
+        "source": "/Volumes/Data/Apps/RNS/app/build/intermediates/exploded-aar/com.android.support/design/23.1.1/res/layout/design_navigation_item_separator.xml"
+    },
+    {
+        "merged": "/Volumes/Data/Apps/RNS/app/build/intermediates/res/merged/debug/layout/abc_screen_simple_overlay_action_mode.xml",
+        "source": "/Volumes/Data/Apps/RNS/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/layout/abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "/Volumes/Data/Apps/RNS/app/build/intermediates/res/merged/debug/layout/abc_screen_simple.xml",
+        "source": "/Volumes/Data/Apps/RNS/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/layout/abc_screen_simple.xml"
+    },
+    {
+        "merged": "/Volumes/Data/Apps/RNS/app/build/intermediates/res/merged/debug/layout/about_dev.xml",
+        "source": "/Volumes/Data/Apps/RNS/app/src/main/res/layout/about_dev.xml"
+    },
+    {
+        "merged": "/Volumes/Data/Apps/RNS/app/build/intermediates/res/merged/debug/layout/activity_hostel_first.xml",
+        "source": "/Volumes/Data/Apps/RNS/app/src/main/res/layout/activity_hostel_first.xml"
+    },
+    {
+        "merged": "/Volumes/Data/Apps/RNS/app/build/intermediates/res/merged/debug/layout/design_navigation_menu_item.xml",
+        "source": "/Volumes/Data/Apps/RNS/app/build/intermediates/exploded-aar/com.android.support/design/23.1.1/res/layout/design_navigation_menu_item.xml"
+    },
+    {
+        "merged": "/Volumes/Data/Apps/RNS/app/build/intermediates/res/merged/debug/layout/design_layout_tab_text.xml",
+        "source": "/Volumes/Data/Apps/RNS/app/build/intermediates/exploded-aar/com.android.support/design/23.1.1/res/layout/design_layout_tab_text.xml"
+    },
+    {
+        "merged": "/Volumes/Data/Apps/RNS/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view_list_item.xml",
+        "source": "/Volumes/Data/Apps/RNS/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/layout/abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "/Volumes/Data/Apps/RNS/app/build/intermediates/res/merged/debug/layout/place_autocomplete_item_powered_by_google.xml",
+        "source": "/Volumes/Data/Apps/RNS/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/8.4.0/res/layout/place_autocomplete_item_powered_by_google.xml"
+    },
+    {
+        "merged": "/Volumes/Data/Apps/RNS/app/build/intermediates/res/merged/debug/layout/handle_nav_newsfeed.xml",
+        "source": "/Volumes/Data/Apps/RNS/app/src/main/res/layout/handle_nav_newsfeed.xml"
+    },
+    {
+        "merged": "/Volumes/Data/Apps/RNS/app/build/intermediates/res/merged/debug/layout/handle_nav_notes.xml",
+        "source": "/Volumes/Data/Apps/RNS/app/src/main/res/layout/handle_nav_notes.xml"
+    },
+    {
+        "merged": "/Volumes/Data/Apps/RNS/app/build/intermediates/res/merged/debug/layout/notification_template_big_media_narrow.xml",
+        "source": "/Volumes/Data/Apps/RNS/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/layout/notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "/Volumes/Data/Apps/RNS/app/build/intermediates/res/merged/debug/layout/design_navigation_item.xml",
+        "source": "/Volumes/Data/Apps/RNS/app/build/intermediates/exploded-aar/com.android.support/design/23.1.1/res/layout/design_navigation_item.xml"
+    },
+    {
+        "merged": "/Volumes/Data/Apps/RNS/app/build/intermediates/res/merged/debug/layout/abc_select_dialog_material.xml",
+        "source": "/Volumes/Data/Apps/RNS/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/layout/abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "/Volumes/Data/Apps/RNS/app/build/intermediates/res/merged/debug/layout/abc_action_bar_title_item.xml",
+        "source": "/Volumes/Data/Apps/RNS/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/layout/abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "/Volumes/Data/Apps/RNS/app/build/intermediates/res/merged/debug/layout/enter_usn_student.xml",
+        "source": "/Volumes/Data/Apps/RNS/app/src/main/res/layout/enter_usn_student.xml"
+    },
+    {
+        "merged": "/Volumes/Data/Apps/RNS/app/build/intermediates/res/merged/debug/layout/teacher_attendance_report.xml",
+        "source": "/Volumes/Data/Apps/RNS/app/src/main/res/layout/teacher_attendance_report.xml"
+    },
+    {
+        "merged": "/Volumes/Data/Apps/RNS/app/build/intermediates/res/merged/debug/layout/abc_action_bar_up_container.xml",
+        "source": "/Volumes/Data/Apps/RNS/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/layout/abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "/Volumes/Data/Apps/RNS/app/build/intermediates/res/merged/debug/layout/activity_first.xml",
+        "source": "/Volumes/Data/Apps/RNS/app/src/main/res/layout/activity_first.xml"
+    },
+    {
+        "merged": "/Volumes/Data/Apps/RNS/app/build/intermediates/res/merged/debug/layout/content_hostel_first.xml",
+        "source": "/Volumes/Data/Apps/RNS/app/src/main/res/layout/content_hostel_first.xml"
+    },
+    {
+        "merged": "/Volumes/Data/Apps/RNS/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_icon.xml",
+        "source": "/Volumes/Data/Apps/RNS/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/layout/abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "/Volumes/Data/Apps/RNS/app/build/intermediates/res/merged/debug/layout/design_layout_snackbar.xml",
+        "source": "/Volumes/Data/Apps/RNS/app/build/intermediates/exploded-aar/com.android.support/design/23.1.1/res/layout/design_layout_snackbar.xml"
+    },
+    {
+        "merged": "/Volumes/Data/Apps/RNS/app/build/intermediates/res/merged/debug/layout/place_autocomplete_item_prediction.xml",
+        "source": "/Volumes/Data/Apps/RNS/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/8.4.0/res/layout/place_autocomplete_item_prediction.xml"
+    }
+]

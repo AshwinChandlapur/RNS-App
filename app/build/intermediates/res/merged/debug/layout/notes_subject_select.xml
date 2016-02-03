@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent" android:layout_height="match_parent"
+    android:padding="16dp"
+    android:background="#2D3234">
+
+    <TextView
+        android:paddingTop="20dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:id="@+id/units"
+        android:textColor="#ffffff"
+        android:textSize="15sp"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true" />
+
+    <Button
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/cardlayout"
+        android:id="@+id/sub1"
+        android:textColor="#FFFFFF"
+        android:width="140dp"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="30dp"
+        />
+
+    <Button
+        android:id="@+id/sub2"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/sub1"
+        android:background="@drawable/cardlayout"
+        android:textColor="#FFFFFF"
+        android:width="140dp"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="15dp"
+        />
+
+    <Button
+        android:id="@+id/sub3"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/sub2"
+        android:background="@drawable/cardlayout"
+        android:textColor="#FFFFFF"
+        android:width="140dp"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="15dp"
+        />
+    <Button
+        android:id="@+id/sub4"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/sub3"
+        android:background="@drawable/cardlayout"
+        android:textColor="#FFFFFF"
+        android:width="140dp"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="15dp"
+        />
+
+    <Button
+        android:id="@+id/sub5"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/sub4"
+        android:background="@drawable/cardlayout"
+        android:textColor="#FFFFFF"
+        android:width="140dp"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="15dp"
+        />
+    <Button
+        android:id="@+id/sub6"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/sub5"
+        android:background="@drawable/cardlayout"
+        android:textColor="#FFFFFF"
+        android:width="140dp"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="15dp"
+        />
+
+</RelativeLayout>

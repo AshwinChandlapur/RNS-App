@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent" android:layout_height="match_parent"
+    android:background="#2D3234"
+    android:paddingLeft="40dp"
+    android:paddingRight="40dp">
+
+    <TextView
+        android:textSize="15sp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:id="@+id/dept_name_disp"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:textColor="#FFFFFF" />
+
+    <Button
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="semester 1"
+        android:id="@+id/s1"
+        android:layout_below="@+id/dept_name_disp"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="10dp"
+        android:textColor="#FFFFFF"
+        android:background="@drawable/cardlayout"
+        android:layout_marginBottom="7dp" />
+
+    <Button
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="semester 2"
+        android:id="@+id/s2"
+        android:layout_below="@+id/s1"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="5dp"
+        android:textColor="#FFFFFF"
+        android:background="@drawable/cardlayout"
+        android:layout_marginBottom="7dp" />
+    <Button
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="semester 3"
+        android:id="@+id/s3"
+        android:layout_below="@+id/s2"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="5dp"
+        android:textColor="#FFFFFF"
+        android:background="@drawable/cardlayout"
+        android:layout_marginBottom="7dp" />
+    <Button
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="semester 4"
+        android:id="@+id/s4"
+        android:layout_below="@+id/s3"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="5dp"
+        android:textColor="#FFFFFF"
+        android:background="@drawable/cardlayout"
+        android:layout_marginBottom="7dp" />
+    <Button
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="semester 5"
+        android:id="@+id/s5"
+        android:layout_below="@+id/s4"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="5dp"
+        android:textColor="#FFFFFF"
+        android:background="@drawable/cardlayout"
+        android:layout_marginBottom="7dp" />
+
+    <Button
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="semester 6"
+        android:id="@+id/s6"
+        android:layout_below="@+id/s5"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="5dp"
+        android:textColor="#FFFFFF"
+        android:background="@drawable/cardlayout"
+        android:layout_marginBottom="7dp" />
+    <Button
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="semester 7"
+        android:id="@+id/s7"
+        android:layout_below="@+id/s6"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="5dp"
+        android:textColor="#FFFFFF"
+        android:background="@drawable/cardlayout"
+        android:layout_marginBottom="7dp" />
+
+    <Button
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="semester 8"
+        android:id="@+id/s8"
+        android:layout_below="@+id/s7"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="5dp"
+        android:textColor="#FFFFFF"
+        android:background="@drawable/cardlayout" />
+
+
+
+</RelativeLayout>

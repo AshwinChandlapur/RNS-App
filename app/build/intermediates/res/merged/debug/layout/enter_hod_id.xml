@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent" android:layout_height="match_parent"
+    android:background="#2D3234"
+    android:paddingLeft="50dp"
+    android:paddingBottom="16dp"
+    android:paddingRight="50dp">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text="SELECT DEPARTMENT"
+        android:id="@+id/textView19"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="42dp"
+        android:textColor="#FFFFFF" />
+
+    <Button
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="INFORMATION SCIENCE"
+        android:id="@+id/d_is"
+        android:layout_below="@+id/textView19"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="15dp"
+        android:textColor="#FFFFFF"
+        android:background="@drawable/cardlayout"
+        android:layout_marginBottom="7dp" />
+
+    <Button
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="COMPUTER SCIENCE"
+        android:id="@+id/d_cs"
+        android:layout_below="@+id/d_is"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="5dp"
+        android:textColor="#FFFFFF"
+        android:background="@drawable/cardlayout"
+        android:layout_marginBottom="7dp" />
+    <Button
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="ELECTRONICS AND COMMUNICATION"
+        android:id="@+id/d_ec"
+        android:layout_below="@+id/d_cs"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="5dp"
+        android:textColor="#FFFFFF"
+        android:background="@drawable/cardlayout"
+        android:layout_marginBottom="7dp" />
+    <Button
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="electrical and electronics"
+        android:id="@+id/d_eee"
+        android:layout_below="@+id/d_ec"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="5dp"
+        android:textColor="#FFFFFF"
+        android:background="@drawable/cardlayout"
+        android:layout_marginBottom="7dp" />
+    <Button
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="instrumentation technology"
+        android:id="@+id/d_it"
+        android:layout_below="@+id/d_eee"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="5dp"
+        android:textColor="#FFFFFF"
+        android:background="@drawable/cardlayout"
+        android:layout_marginBottom="7dp" />
+    <Button
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="mechanical"
+        android:id="@+id/d_mech"
+        android:layout_below="@+id/d_it"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="5dp"
+        android:textColor="#FFFFFF"
+        android:background="@drawable/cardlayout"
+        android:layout_marginBottom="7dp" />
+    <Button
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="civil"
+        android:id="@+id/d_civ"
+        android:layout_below="@+id/d_mech"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="5dp"
+        android:textColor="#FFFFFF"
+        android:background="@drawable/cardlayout" />
+
+</RelativeLayout>

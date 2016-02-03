@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent" android:layout_height="match_parent"
+    android:padding="16dp"
+    android:background="#2D3234">
+
+    <Button
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="unit 1"
+        android:background="@drawable/cardlayout"
+        android:id="@+id/uni1"
+        android:textColor="#FFFFFF"
+        android:width="140dp"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="20dp"
+        />
+    <Button
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="unit 2"
+        android:layout_below="@+id/uni1"
+        android:background="@drawable/cardlayout"
+        android:id="@+id/uni2"
+        android:textColor="#FFFFFF"
+        android:width="140dp"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="10dp"
+        />
+    <Button
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="unit 3"
+        android:layout_below="@+id/uni2"
+        android:background="@drawable/cardlayout"
+        android:id="@+id/uni3"
+        android:textColor="#FFFFFF"
+        android:width="140dp"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="10dp"
+        />
+    <Button
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="unit 4"
+        android:layout_below="@+id/uni3"
+        android:background="@drawable/cardlayout"
+        android:id="@+id/uni4"
+        android:textColor="#FFFFFF"
+        android:width="140dp"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="10dp"
+        />
+    <Button
+        android:id="@+id/uni5"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="unit 5"
+        android:layout_below="@+id/uni4"
+        android:background="@drawable/cardlayout"
+        android:textColor="#FFFFFF"
+        android:width="140dp"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="10dp"
+        />
+    <Button
+        android:id="@+id/uni6"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="unit 6"
+        android:layout_below="@+id/uni5"
+        android:background="@drawable/cardlayout"
+        android:textColor="#FFFFFF"
+        android:width="140dp"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="10dp"
+        />
+    <Button
+        android:id="@+id/uni7"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="unit 7"
+        android:layout_below="@+id/uni6"
+        android:background="@drawable/cardlayout"
+        android:textColor="#FFFFFF"
+        android:width="140dp"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="10dp"
+        />
+    <Button
+        android:id="@+id/uni8"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="unit 8"
+        android:layout_below="@+id/uni7"
+        android:background="@drawable/cardlayout"
+        android:textColor="#FFFFFF"
+        android:width="140dp"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="10dp"
+        />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:id="@+id/branch"
+        android:textColor="#ffffff"
+        android:textSize="15sp"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true" />
+</RelativeLayout>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="16dp"
+    android:background="#2D3234">
+
+
+    <Button
+        android:layout_marginTop="59dp"
+        android:id="@+id/teacherLogin"
+        android:text="teacher"
+        android:background="@drawable/cardlayout"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:width="200dp"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="60dp"
+        android:textColor="#ffffff" />
+    <Button
+        android:id="@+id/studentLogin"
+        android:text="student"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/teacherLogin"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="60dp"
+        android:width="200dp"
+        android:background="@drawable/cardlayout"
+        android:textColor="#ffffff" />
+    <Button
+        android:id="@+id/hodLogin"
+        android:text="hod"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:width="200dp"
+        android:layout_below="@+id/studentLogin"
+        android:layout_alignStart="@+id/studentLogin"
+        android:background="@drawable/cardlayout"
+        android:textColor="#ffffff" />
+
+</RelativeLayout>

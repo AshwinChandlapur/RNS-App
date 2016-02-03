@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent" android:layout_height="match_parent"
+    android:background="#2D3234">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text="NEW TEACHER DETAILS"
+        android:id="@+id/textView14"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:textColor="#FFFFFF"
+        android:layout_marginTop="30dp" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text="Name"
+        android:id="@+id/textView15"
+        android:layout_below="@+id/textView14"
+        android:layout_alignParentStart="true"
+        android:layout_marginTop="71dp"
+        android:layout_marginLeft="10dp"
+        android:textColor="#FFFFFF"
+        android:typeface="monospace" />
+
+    <EditText
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/n_teacher_name"
+        android:width="210dp"
+        android:layout_alignBottom="@+id/textView15"
+        android:layout_alignParentEnd="true"
+        android:gravity="center_horizontal"
+        android:background="@drawable/edittextbg"
+        android:textColor="#FFFFFF"
+        android:textColorHighlight="#FFFFFF"
+        android:hint="ABC" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text="Teacher ID"
+        android:id="@+id/textView16"
+        android:gravity="center_horizontal"
+        android:layout_marginTop="35dp"
+        android:layout_below="@+id/n_teacher_name"
+        android:layout_alignStart="@+id/textView15"
+        android:textColor="#FFFFFF"
+        android:typeface="serif" />
+
+    <EditText
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/n_teacher_id"
+        android:gravity="center_horizontal"
+        android:layout_alignBottom="@+id/textView16"
+        android:layout_alignStart="@+id/n_teacher_name"
+        android:layout_alignParentEnd="true"
+        android:inputType="number"
+        android:background="@drawable/edittextbg"
+        android:textColorHighlight="#FFFFFF"
+        android:textColor="#FFFFFF"
+        android:hint="0-9+" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text="Branch"
+        android:id="@+id/textView17"
+        android:layout_marginLeft="10dp"
+        android:layout_below="@+id/textView16"
+        android:layout_alignParentStart="true"
+        android:layout_marginTop="36dp"
+        android:textColor="#FFFFFF"
+        android:typeface="sans" />
+
+    <EditText
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/n_teacher_branch"
+        android:layout_alignBottom="@+id/textView17"
+        android:layout_alignStart="@+id/n_teacher_id"
+        android:gravity="center_horizontal"
+        android:layout_alignParentEnd="true"
+        android:background="@drawable/edittextbg"
+        android:textColor="#FFFFFF"
+        android:textColorHighlight="#FFFFFF"
+        android:hint="IS" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Submit"
+        android:id="@+id/submit_teacher_update"
+        android:layout_below="@+id/n_teacher_branch"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="49dp"
+        android:textColor="#FFFFFF"
+        android:background="@drawable/cardlayout"
+        android:width="160dp"
+        android:textSize="20dp" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:id="@+id/teacher_message"
+        android:textColor="#06f2d3"
+        android:layout_below="@+id/submit_teacher_update"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="43dp" />
+</RelativeLayout>

@@ -1,0 +1,287 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent" android:layout_height="match_parent"
+    android:background="#2D3234"
+    android:padding="8dp">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text="Student Attendance Report"
+        android:id="@+id/textView6"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="33dp"
+        android:textColor="#FFFFFF" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:id="@+id/report2"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:textColor="#74797D" />
+
+    <Button
+        style="?android:attr/buttonStyleSmall"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="update details"
+        android:id="@+id/updateStudentDetails"
+        android:layout_above="@+id/report2"
+        android:layout_alignParentEnd="true"
+        android:textColor="#FFFFFF"
+        android:background="@drawable/cardlayout"
+        android:width="140dp" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text="USN"
+        android:id="@+id/textView26"
+        android:layout_below="@+id/textView6"
+        android:layout_alignStart="@+id/textView6"
+        android:layout_marginTop="5dp"
+        android:textColor="#FFFFFF" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text="Name"
+        android:id="@+id/textView27"
+        android:layout_below="@+id/textView26"
+        android:layout_alignStart="@+id/textView26"
+        android:textColor="#FFFFFF" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text="MobNo"
+        android:id="@+id/textView28"
+        android:layout_below="@+id/textView27"
+        android:layout_alignStart="@+id/textView27"
+        android:textColor="#FFFFFF" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text="E-mail"
+        android:id="@+id/textView29"
+        android:layout_below="@+id/textView28"
+        android:layout_alignStart="@+id/textView28"
+        android:textColor="#FFFFFF" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text="Semester"
+        android:id="@+id/textView30"
+        android:layout_below="@+id/textView29"
+        android:layout_alignStart="@+id/textView29"
+        android:textColor="#FFFFFF" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text="Branch"
+        android:id="@+id/textView31"
+        android:layout_below="@+id/textView30"
+        android:layout_alignStart="@+id/textView30"
+        android:textColor="#FFFFFF" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text="Section"
+        android:id="@+id/textView32"
+        android:layout_below="@+id/textView31"
+        android:layout_alignStart="@+id/textView31"
+        android:textColor="#FFFFFF" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text="Sub1"
+        android:id="@+id/textView33"
+        android:layout_below="@+id/textView32"
+        android:layout_alignStart="@+id/textView32"
+        android:textColor="#FFFFFF" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text="Sub2"
+        android:id="@+id/textView34"
+        android:layout_below="@+id/textView33"
+        android:layout_alignStart="@+id/textView33"
+        android:textColor="#FFFFFF" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text="Sub3"
+        android:id="@+id/textView35"
+        android:layout_below="@+id/textView34"
+        android:layout_alignStart="@+id/textView34"
+        android:textColor="#FFFFFF" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text="Sub4"
+        android:id="@+id/textView36"
+        android:layout_below="@+id/textView35"
+        android:layout_alignStart="@+id/textView35"
+        android:textColor="#FFFFFF" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text="Sub5"
+        android:id="@+id/textView37"
+        android:layout_below="@+id/textView36"
+        android:layout_alignStart="@+id/textView36"
+        android:textColor="#FFFFFF" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text="Sub6"
+        android:id="@+id/textView38"
+        android:layout_below="@+id/textView37"
+        android:layout_alignStart="@+id/textView37"
+        android:textColor="#FFFFFF" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:id="@+id/att_report_usn"
+        android:layout_alignTop="@+id/textView26"
+        android:layout_toEndOf="@+id/textView30"
+        android:textColor="#74797D" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:id="@+id/att_report_name"
+        android:layout_alignTop="@+id/textView27"
+        android:layout_alignStart="@+id/att_report_usn"
+        android:textColor="#74797D" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:id="@+id/att_report_mobno"
+        android:layout_alignBottom="@+id/textView28"
+        android:layout_alignStart="@+id/att_report_name"
+        android:textColor="#74797D" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:id="@+id/att_report_email"
+        android:layout_above="@+id/textView30"
+        android:layout_alignStart="@+id/att_report_mobno"
+        android:textColor="#74797D" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:id="@+id/att_report_sem"
+        android:gravity="left"
+        android:layout_above="@+id/textView31"
+        android:layout_toEndOf="@+id/att_report_email"
+        android:textColor="#74797D" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:id="@+id/att_report_branch"
+        android:layout_alignBottom="@+id/textView31"
+        android:layout_toEndOf="@+id/textView30"
+        android:textColor="#74797D" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:id="@+id/att_report_section"
+        android:layout_alignTop="@+id/textView32"
+        android:layout_toEndOf="@+id/textView30"
+        android:textColor="#74797D" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:id="@+id/att_report_sub1"
+        android:layout_alignTop="@+id/textView33"
+        android:layout_toEndOf="@+id/textView30"
+        android:textColor="#74797D" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:id="@+id/att_report_sub2"
+        android:layout_above="@+id/textView35"
+        android:layout_toEndOf="@+id/textView30"
+        android:textColor="#74797D" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:id="@+id/att_report_sub3"
+        android:layout_alignTop="@+id/textView35"
+        android:layout_toEndOf="@+id/textView30"
+        android:textColor="#74797D" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:id="@+id/att_report_sub4"
+        android:layout_alignTop="@+id/textView36"
+        android:layout_toEndOf="@+id/textView30"
+        android:textColor="#74797D" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:id="@+id/att_report_sub5"
+        android:layout_alignTop="@+id/textView37"
+        android:layout_toEndOf="@+id/textView30"
+        android:textColor="#74797D" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:id="@+id/att_report_sub6"
+        android:layout_alignTop="@+id/textView38"
+        android:layout_toEndOf="@+id/textView30"
+        android:textColor="#74797D" />
+</RelativeLayout>
